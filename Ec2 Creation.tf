@@ -13,3 +13,4 @@ resource "aws_instance" "ec2test" {
   # Run #terraform plan  : it read terraform file and show things that will created
   #Run #terraform apply "to start creation"     #Result : instance created on AWS account
 }
+
